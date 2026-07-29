@@ -13,10 +13,10 @@ If you're interested in embedded systems, RTOS, scheduling algorithms, firmware,
 I'd really appreciate any **ideas**, **feedback**, or **contributions** to this **Project and its research Journal.**
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="18">&nbsp;&nbsp;Live
-**watchNXT**— [Live App](https://watchnxt-hub.vercel.app/) [Github](https://github.com/nithingoud78/watchNXT)  
-**Abroad Compass**— [Live App](https://abroad-compass.vercel.app/) [Github](https://github.com/nithingoud78/abroad-compass)  
-**CareerUpdates**— [Live App](https://careerupdates.co.in/) [Github](https://github.com/nithingoud78/CareerUpdates)  
-**FallAlert**— [Live App](https://fall-alert.vercel.app/) [Github](https://github.com/nithingoud78/FallAlert)  
+- **watchNXT** -                  [Live App](https://watchnxt-hub.vercel.app/)           [Github](https://github.com/nithingoud78/watchNXT)  
+- **Abroad Compass** -            [Live App](https://abroad-compass.vercel.app/)         [Github](https://github.com/nithingoud78/abroad-compass)  
+- **CareerUpdates** -             [Live App](https://careerupdates.co.in/)               [Github](https://github.com/nithingoud78/CareerUpdates)  
+- **FallAlert** -                 [Live App](https://fall-alert.vercel.app/)             [Github](https://github.com/nithingoud78/FallAlert)  
 
 Thank you for visiting my profile!
 
