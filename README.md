@@ -5,10 +5,9 @@ I enjoy building software that solves real problems and learning by creating pro
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="18">&nbsp;&nbsp;working on 
 
 # **SchedTiny**
-A lightweight embedded scheduling system that combines hardware and software for real-world automation.  
+A lightweight embedded scheduling system that combines hardware and software for real-world automation.
+ 
 I'm building this as both an open-source project and a ***Research journal***.  
-If you're interested in embedded systems, RTOS, scheduling algorithms, firmware, or electronics, I'd really appreciate your Ideas, feedback, or contributions.
-
 
 I'd really appreciate any **ideas**, **feedback**, or **contributions** to this **Project and its research Journal.**
 
