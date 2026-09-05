@@ -22,9 +22,12 @@ Background in RTOS internals or timing-critical systems? I'd genuinely like to k
 <br>
 <br>
 
-<table width="100%">
-<tr valign="top">
-<td width="60%">
+### Stack
+
+<img src="./skills-radar.svg" width="65%" />
+
+<br>
+<br>
 
 ### Shipped
 
@@ -41,17 +44,6 @@ Four products, four unrelated problems — the goal was learning to finish, not 
 
 `FallAlert` — fall detection for elder safety
 → [live](https://fall-alert.vercel.app/) · [code](https://github.com/nithingoud78/FallAlert)
-
-</td>
-<td width="40%">
-
-### Stack
-
-<img src="./skills-radar.svg" width="100%" />
-
-</td>
-</tr>
-</table>
 
 <br>
 
