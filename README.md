@@ -1,52 +1,25 @@
-<br>
+# <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30"> Hi, I'm Nithin.
+I'm an **Electronics and Communication Engineering📟📡** Graduate.  
+I enjoy building software that solves real problems and learning by creating projects.  
 
-# Nithin Goud
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="18">&nbsp;&nbsp;working on 
 
-Electronics & Communication Engineering, on paper. Shipped mostly software.
+# **SchedTiny**
+A lightweight embedded scheduling system that combines hardware and software for real-world automation.  
+I'm building this as both an open-source project and a ***Research journal***.  
+If you're interested in embedded systems, RTOS, scheduling algorithms, firmware, or electronics, I'd really appreciate your Ideas, feedback, or contributions.
 
-<br>
 
-### SchedTiny
+I'd really appreciate any **ideas**, **feedback**, or **contributions** to this **Project and its research Journal.**
 
-An embedded scheduling system — hardware and software agreeing on what "on time" actually means. Open source, with a research journal published alongside the code, so the reasoning is there, not just the result.
+### <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="18">&nbsp;&nbsp;Live
+- **watchNXT** -&nbsp;&nbsp;&nbsp;&nbsp;[Live App](https://watchnxt-hub.vercel.app/)&nbsp;&nbsp;&nbsp;[Github](https://github.com/nithingoud78/watchNXT)  
+- **Abroad Compass** -&nbsp;&nbsp;&nbsp;[Live App](https://abroad-compass.vercel.app/)&nbsp;&nbsp;&nbsp;[Github](https://github.com/nithingoud78/abroad-compass)  
+- **CareerUpdates** -&nbsp;&nbsp;&nbsp; [Live App](https://careerupdates.co.in/)&nbsp;&nbsp;&nbsp;[Github](https://github.com/nithingoud78/CareerUpdates)  
+- **FallAlert** -&nbsp;&nbsp;&nbsp;&nbsp;[Live App](https://fall-alert.vercel.app/)&nbsp;&nbsp;&nbsp;[Github](https://github.com/nithingoud78/FallAlert)  
 
-`[live demo]` · `[source]` · `[research journal]`
+Thank you for visiting my profile!
 
-Background in RTOS internals or timing-critical systems? I'd genuinely like to know what I got wrong.
+**P.S.** If you find something useful, consider giving it a ⭐.
 
-<br>
-<br>
-
-<img src="./activity-line.svg" width="100%" />
-
-<br>
-<br>
-
-### Stack
-
-<img src="./skills-radar.svg" width="65%" />
-
-<br>
-<br>
-
-### Shipped
-
-Four products, four unrelated problems — the goal was learning to finish, not finding a niche.
-
-`watchNXT` — watchlist tracker
-→ [live](https://watchnxt.careerupdates.co.in/) · [code](https://github.com/nithingoud78/watchNXT)
-
-`Abroad Compass` — study-abroad planning
-→ [live](https://abroadcompass.careerupdates.co.in/) · [code](https://github.com/nithingoud78/abroad-compass)
-
-`CareerUpdates` — job & career board
-→ [live](https://careerupdates.co.in/) · [code](https://github.com/nithingoud78/CareerUpdates)
-
-`FallAlert` — fall detection for elder safety
-→ [live](https://fall-alert.vercel.app/) · [code](https://github.com/nithingoud78/FallAlert)
-
-<br>
-
-[LinkedIn](https://linkedin.com/in/nithin-goud78) · [k.nithingoud78@gmail.com](mailto:k.nithingoud78@gmail.com)
-
-<sub>A ⭐ on any repo tells me which one to keep pushing on.</sub>
+[LinkedIn](linkedin.com/in/nithin-goud78) [Email](k.nithingoud78@gmail.com)
