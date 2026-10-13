@@ -14,8 +14,8 @@ I'd really appreciate any **ideas**, **feedback**, or **contributions** to this 
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="18">&nbsp;&nbsp;Live
 - **watchNXT** -&nbsp;&nbsp;&nbsp;&nbsp;[Live App](https://watchnxt-hub.vercel.app/)&nbsp;&nbsp;&nbsp;[Github](https://github.com/nithingoud78/watchNXT)  
-- **Abroad Compass** -&nbsp;&nbsp;&nbsp;[Live App](https://abroad-compass.vercel.app/)&nbsp;&nbsp;&nbsp;[Github](https://github.com/nithingoud78/abroad-compass)  
-- **CareerUpdates** -&nbsp;&nbsp;&nbsp; [Live App](https://careerupdates.co.in/)&nbsp;&nbsp;&nbsp;[Github](https://github.com/nithingoud78/CareerUpdates)  
+- **Abroad Compass** -&nbsp;&nbsp;&nbsp;[Live App](https://abroad-compass.vercel.app/)&nbsp;&nbsp;&nbsp;
+- **CareerUpdates** -&nbsp;&nbsp;&nbsp; [Live App](https://careerupdates.co.in/)&nbsp;&nbsp;&nbsp; 
 - **FallAlert** -&nbsp;&nbsp;&nbsp;&nbsp;[Live App](https://fall-alert.vercel.app/)&nbsp;&nbsp;&nbsp;[Github](https://github.com/nithingoud78/FallAlert)  
 
 Thank you for visiting my profile!
