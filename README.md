@@ -13,9 +13,9 @@ If you're interested in embedded systems, RTOS, scheduling algorithms, firmware,
 I'd really appreciate any **ideas**, **feedback**, or **contributions** to this **Project and its research Journal.**
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="18">&nbsp;&nbsp;Live
-- **watchNXT** -&nbsp;&nbsp;&nbsp;&nbsp;[Live App](https://watchnxt-hub.vercel.app/)&nbsp;&nbsp;&nbsp;[Github](https://github.com/nithingoud78/watchNXT)  
+- **CareerUpdates** -&nbsp;&nbsp;&nbsp; [Live App](https://careerupdates.co.in/)&nbsp;&nbsp;&nbsp;
 - **Abroad Compass** -&nbsp;&nbsp;&nbsp;[Live App](https://abroad-compass.vercel.app/)&nbsp;&nbsp;&nbsp;
-- **CareerUpdates** -&nbsp;&nbsp;&nbsp; [Live App](https://careerupdates.co.in/)&nbsp;&nbsp;&nbsp; 
+- **watchNXT** -&nbsp;&nbsp;&nbsp;&nbsp;[Live App](https://watchnxt-hub.vercel.app/)&nbsp;&nbsp;&nbsp;
 - **FallAlert** -&nbsp;&nbsp;&nbsp;&nbsp;[Live App](https://fall-alert.vercel.app/)&nbsp;&nbsp;&nbsp;[Github](https://github.com/nithingoud78/FallAlert)  
 
 Thank you for visiting my profile!
